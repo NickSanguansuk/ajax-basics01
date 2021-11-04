@@ -1,0 +1,3 @@
+This is just some dummy text.
+This code is from the Youtube video "Ajax Crash Course 2020 by packetcode"
+- https://www.youtube.com/watch?v=fLJItEI7TE0&t=7s
